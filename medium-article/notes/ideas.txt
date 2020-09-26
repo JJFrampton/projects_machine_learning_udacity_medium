@@ -1,0 +1,10 @@
+Ideas
+
+look at rust lovers
+	- how many years experience do they have?
+	- other languages do they know?
+	- what is there pay? job satisfaction?
+
+can we predict a vim user?
+	- look at coefficients (ANOVA)
+	- what a good predictor for vim usage
